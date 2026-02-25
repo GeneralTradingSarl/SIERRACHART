@@ -36,11 +36,11 @@ Pre-configured Sierra Chart files for rapid deployment:
 
 ## Support & Contributions
 
-Si vous appréciez ce travail et souhaitez soutenir le projet ou faire un cadeau contributif, vous pouvez envoyer vos dons à l'adresse suivante :
+If you appreciate this work and would like to support the project or make a contributive gift, you can send your donations to the following address:
 
-**Adresse USDT (TRC20) :**
+**USDT Address (TRC20):**
 `TCFN1ng97DnMNHKrtyWuUUnUeQN3nZChrG`
 
 ---
-*Note : Ceci est une adresse réseau TRON (TRC20) uniquement.*
+*Note: This is a TRON network (TRC20) address only.*
 
