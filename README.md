@@ -32,5 +32,15 @@ Pre-configured Sierra Chart files for rapid deployment:
 
 ## Technical Details
 - **Language**: C++ (Sierra Chart ACSIL)
-- **Architecture**: High-performance 64-bit DLLs.
 - **Platform**: Sierra Chart
+
+## Support & Contributions
+
+Si vous appréciez ce travail et souhaitez soutenir le projet ou faire un cadeau contributif, vous pouvez envoyer vos dons à l'adresse suivante :
+
+**Adresse USDT (TRC20) :**
+`TCFN1ng97DnMNHKrtyWuUUnUeQN3nZChrG`
+
+---
+*Note : Ceci est une adresse réseau TRON (TRC20) uniquement.*
+
