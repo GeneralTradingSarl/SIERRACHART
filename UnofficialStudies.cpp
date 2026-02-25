@@ -1,6 +1,6 @@
 #include "sierrachart.h" 
 
-SCDLLName("TraderSmarts Unofficial DLL")
+SCDLLName("Unofficial Studies DLL")
 
 SCString ReadTextFile(SCStudyInterfaceRef sc, SCString FileLocation)
 {
@@ -13,7 +13,7 @@ SCString ReadTextFile(SCStudyInterfaceRef sc, SCString FileLocation)
 	return TextBuffer;
 }
 
-SCSFExport scsf_TraderSmarts(SCStudyInterfaceRef sc)
+SCSFExport scsf_CustomIndicator(SCStudyInterfaceRef sc)
 {
 	int i = sc.Index;
 
@@ -21,12 +21,12 @@ SCSFExport scsf_TraderSmarts(SCStudyInterfaceRef sc)
 
 	if (sc.SetDefaults)
 	{
-		sc.GraphName = "TraderSmarts Unofficial";
+		sc.GraphName = "Custom Indicator";
 		sc.GraphRegion = 0;
 		sc.AutoLoop = 1;
 
 		Input_FileName.Name = "Filename to read";
-		Input_FileName.SetPathAndFileName("C:\\temp\\tradersmarts.txt");
+		Input_FileName.SetPathAndFileName("C:\\temp\\data.txt");
 
 		return;
 	}

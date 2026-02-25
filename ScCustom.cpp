@@ -1,6 +1,6 @@
 #include "sierrachart.h" 
 
-SCDLLName("Trader Oracle DLL") 
+SCDLLName("Custom Studies DLL") 
 
 #pragma region COMMON FUNCTIONS
 

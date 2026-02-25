@@ -1,6 +1,6 @@
 #include "sierrachart.h" 
 
-SCDLLName("TO Robots DLL")
+SCDLLName("Robots DLL")
 
 #pragma region COMMON FUNCTIONS
 
