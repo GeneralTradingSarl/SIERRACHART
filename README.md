@@ -44,3 +44,10 @@ If you appreciate this work and would like to support the project or make a cont
 ---
 *Note: This is a TRON network (TRC20) address only.*
 
+## Need something custom?
+
+This repository is a free reference. If you need an Expert Advisor built or fixed, an indicator ported from MQL4 to MQL5, a Telegram signal bot, or a trade copier, I build them to order and deliver the full source code.
+
+- Portfolio: https://ismael-portfolio-liard.vercel.app/en
+- All my work: https://github.com/GeneralTradingSarl
+- Email: general.trading.bot.2025@gmail.com
